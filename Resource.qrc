@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>fonts/steve.ttf</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/hi16-app-blinken.png</file>
+        <file>icons/hi22-app-blinken.png</file>
+        <file>icons/hi32-app-blinken.png</file>
+        <file>icons/hi48-app-blinken.png</file>
+        <file>icons/hi64-app-blinken.png</file>
+        <file>icons/hi128-app-blinken.png</file>
+        <file>icons/hisc-app-blinken.svgz</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="blinken.svg">images/blinken.svg</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sounds/1.wav</file>
+        <file>sounds/2.wav</file>
+        <file>sounds/3.wav</file>
+        <file>sounds/4.wav</file>
+        <file>sounds/lose.wav</file>
+    </qresource>
+</RCC>
